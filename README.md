@@ -2,7 +2,7 @@
 Brightwave Logistics SQL Portfolio Project
 Project Title: Insider Risk, Data Access & Phishing Response Investigation
 Tools: MySQL 8.0+
-Organization: Tech Studio Academy – Group B
+Organization: Tech Studio Academy 
 Period: August 2026
 
 1. Introduction / Project Overview
